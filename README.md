@@ -4,8 +4,8 @@
     <a href="https://t.me/den_asmos">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://vk.com/id337806786">
-      <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge"/>
+    <a href="https://linkedin.com/in/valeryia-bareisha">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   </div>
   <h1>
